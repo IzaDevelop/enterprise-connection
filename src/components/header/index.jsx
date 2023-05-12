@@ -50,6 +50,7 @@ export default function Header() {
                         <Links path={"/training"} label={"Formação"} />
                         <Links path={"/experience"} label={"Experiência"} />
                         <Links path={"/hobbies"} label={"Hobbies"} />
+                        <Links path={"/contact"} label={"Fale Conosco"} />
                     </div>
                 </div>
             </nav>

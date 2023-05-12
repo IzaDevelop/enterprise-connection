@@ -175,8 +175,6 @@ export default function AboutYou() {
                                 className={`text-zinc-700 border border-zinc-40 rounded-sm p-2 h-[40px] w-full`}
                             />
                         </div>
-
-                        
                     </form>
                 </section>
             </article>
