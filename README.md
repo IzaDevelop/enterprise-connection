@@ -4,6 +4,7 @@
 # 3 - npm install 
 # 4 - npm run dev
 
+
 ## Bibliotecas utilizadas
 @phosphor-icons/react : icones 
 tailwindcss : estilização 
