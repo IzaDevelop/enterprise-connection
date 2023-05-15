@@ -5,7 +5,7 @@
 # 4 - npm run dev
 
 ## Acesse o projeto
-https://enterprise-connection-owswdb8z3-izaart.vercel.app
+https://enterprise-connection.vercel.app
 
 ### Bibliotecas utilizadas
 @phosphor-icons/react : icones 
