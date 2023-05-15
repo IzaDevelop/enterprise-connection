@@ -1,4 +1,4 @@
-import BG from './images/bg.png'
+import BG from './images/BG.png'
 export const Background = BG
 
 import pedro from './images/pedro.png'
